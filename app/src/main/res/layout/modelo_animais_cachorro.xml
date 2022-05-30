@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cardview_cachorro"
+    android:layout_width="150dp"
+    android:layout_height="250dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        
+        <ImageView
+            android:scaleType="fitCenter"
+            android:id="@+id/img_modelo_cachorro"
+            android:layout_width="match_parent"
+            android:src="@drawable/dog"
+            android:layout_height="180dp"/>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dog Filhote"
+            android:textColor="#000"
+            android:layout_alignBottom="@+id/img_modelo_cachorro"/>
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
