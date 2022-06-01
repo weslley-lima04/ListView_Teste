@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/ListView_Teste/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/ListView_Teste/app/src/main/res/layout/galeria_layout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/ListView_Teste/app/src/main/res/layout/lista_cachorro_layout.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/ListView_Teste/app/src/main/res/layout/modelo_animais_cachorro.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyApp-BottomAppBar/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyApp-BottomAppBar/app/src/main/res/layout/animais_layout.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyApp-BottomAppBar/app/src/main/res/layout/fragment_blank.xml" value="0.36666666666666664" />
